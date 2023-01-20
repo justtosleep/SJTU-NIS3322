@@ -1,0 +1,51 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/bg/login.jpg</file>
+    <file>img/bg/background.png</file>
+  </qresource>
+  <qresource prefix="emoji">
+    <file>img/emoji/啊.png</file>
+    <file>img/emoji/鄙视.png</file>
+    <file>img/emoji/不高兴.png</file>
+    <file>img/emoji/乖.png</file>
+    <file>img/emoji/哈哈.png</file>
+    <file>img/emoji/汗.png</file>
+    <file>img/emoji/呵呵.png</file>
+    <file>img/emoji/黑线.png</file>
+    <file>img/emoji/呼~.png</file>
+    <file>img/emoji/花心.png</file>
+    <file>img/emoji/滑稽.png</file>
+    <file>img/emoji/惊哭.png</file>
+    <file>img/emoji/惊讶.png</file>
+    <file>img/emoji/开心.png</file>
+    <file>img/emoji/酷.png</file>
+    <file>img/emoji/狂汗.png</file>
+    <file>img/emoji/泪.png</file>
+    <file>img/emoji/冷.png</file>
+    <file>img/emoji/勉强.png</file>
+    <file>img/emoji/怒.png</file>
+    <file>img/emoji/喷.png</file>
+    <file>img/emoji/钱.png</file>
+    <file>img/emoji/生气.png</file>
+    <file>img/emoji/睡觉.png</file>
+    <file>img/emoji/太开心.png</file>
+    <file>img/emoji/吐.png</file>
+    <file>img/emoji/吐舌.png</file>
+    <file>img/emoji/委屈.png</file>
+    <file>img/emoji/笑眼.png</file>
+    <file>img/emoji/咦.png</file>
+    <file>img/emoji/疑问.png</file>
+    <file>img/emoji/阴险.png</file>
+    <file>img/emoji/真棒.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>img/icon/contact.png</file>
+    <file>img/icon/emoji.png</file>
+    <file>img/icon/exit.png</file>
+    <file>img/icon/files.png</file>
+    <file>img/icon/maxsize.png</file>
+    <file>img/icon/minimize.png</file>
+    <file>img/icon/minimizeWhite.png</file>
+    <file>img/icon/web.png</file>
+  </qresource>
+</RCC>

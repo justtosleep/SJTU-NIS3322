@@ -1,0 +1,6 @@
+{
+  "server_IP": "127.0.0.1",
+  "server_port_login": 5000,
+  "server_port_chat": 5001,
+  "server_port_file": 5002
+}
